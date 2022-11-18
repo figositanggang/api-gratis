@@ -1,66 +1,66 @@
 [
     {
-      "fotodokter": "assets/dokter/dokter satu.jpg",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738178/Twolose%20Kesehatan/dokter-looking-ray-portrait-doctor-isolated-over-white-background-36447867_dytiqe.jpg",
       "nama": "Dr.Novira Sulfianti, SP.M",
       "spesialis": "Spesialis Mata"
     },
     {
-      "fotodokter": "assets/dokter/dokter dua.jpg",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738121/Twolose%20Kesehatan/dokter_satu_gjwlvj.jpg",
       "nama": "Dr. Pranoto Trilakson ",
       "spesialis": "Spesialis Anak"
     },
     {
-      "fotodokter": "assets/dokter/dokter tiga.jpg",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738112/Twolose%20Kesehatan/dokter_dua_d8eadb.jpg",
       "nama": "Dr. R. Arief Banu Pradipta",
       "spesialis": "Spesialis Penyakit dalam"
     },
     {
-      "fotodokter": "assets/dokter/dokter empat.png",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738090/Twolose%20Kesehatan/dokter_14_zudfmf.jpg",
       "nama": "Dr. Fifianti Putri Adela, SP.OG",
       "spesialis": "Sepesialis kandungan"
     },
     {
-      "fotodokter": "assets/dokter/dokter duda.jpeg",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738090/Twolose%20Kesehatan/dokter_empat_jpnhus.png",
       "nama": "Dr. Agusnadi Talah, Ap.A",
       "spesialis": "khusus Anak"
     },
     {
-      "fotodokter": "assets/dokter/fadhil.jpeg",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738090/Twolose%20Kesehatan/fadhil_qczx7z.jpg",
       "nama": "Dr. Fadhil, Ap.A",
       "spesialis": "khusus Anak"
     },
     {
-      "fotodokter": "assets/dokter/dokter 16.jpeg",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738089/Twolose%20Kesehatan/dokter_duda_ui7bsl.jpg",
       "nama": "Dr. Song He Kyo",
       "spesialis": "Umum"
     },
     {
-      "fotodokter": "assets/dokter/onew.png",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738089/Twolose%20Kesehatan/dokter_16_ijfsm3.jpg",
       "nama": "Dr.Onew",
       "spesialis": "khusus Anak"
     },
     {
-      "fotodokter": "assets/dokter/dokter 15.jpg",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738089/Twolose%20Kesehatan/dokter_15_xzvabd.jpg",
       "nama": "Dr. Naya",
       "spesialis": "Kulit"
     },
     {
-      "fotodokter": "assets/dokter/dokter 14.jpg",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738089/Twolose%20Kesehatan/onew_gdczuc.png",
       "nama": "Dr. Nabila",
       "spesialis": "Anak"
     },
     {
-      "fotodokter": "assets/dokter/dokter 13.jpg",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738089/Twolose%20Kesehatan/dokter_11_swt26h.jpg",
       "nama": "Dr.Karin",
       "spesialis": "kecantikan"
     },
     {
-      "fotodokter": "assets/dokter/dokter 12.jpg",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738088/Twolose%20Kesehatan/dokter_13_lh5naz.jpg",
       "nama": "Dr.Jihyo",
       "spesialis": "THT"
     },
     {
-      "fotodokter": "assets/dokter/dokter 11.jpg",
+      "fotodokter": "https://res.cloudinary.com/unlinked/image/upload/v1668738088/Twolose%20Kesehatan/dokter_12_zif16w.jpg",
       "nama": "Dr.Wendy",
       "spesialis": "khusus Anak"
     }
